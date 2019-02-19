@@ -1,0 +1,1 @@
+# Gamma-correction-to-correct-image-intensity-for-color-images
